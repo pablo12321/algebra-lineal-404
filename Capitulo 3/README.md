@@ -125,7 +125,7 @@ ___
 ### Teorema 3.12
 Una matriz $A$ es **no singular**, si y solo si, $|A| <> 0$.\
 Por el contrario, si $A$ es **singular**, entonces $|A| = 0$
-____
+___
 ### Lista de equivalencias no signulares
 1. $A$ es no singular.
 2. $A$ es equivalente por filas a $I_n$

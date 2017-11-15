@@ -24,7 +24,7 @@ ___
 ### Sistemas de ecuaciones lineales
 Un conjunto de ecuaciones lineales en las variables - $x_1,x_2,...,x_n$ es un **sistema de ecuaciones lineales**
 
-![](../img/Ecuaciones lineales.png)
+![](../img/Ecuaciones-lineales.png)
 
 Una sucesión de números $s_1,s_2,...,s_n$ es una solución del sistema si
 $x_1 = s_1,x_2 = s_2,...,x_n = s_n$
@@ -36,19 +36,19 @@ Para encontrar las soluciones de un sistema lineal se puede usar el **método de
 
 Ejemplo: 
 
-![](../img/Ecuaciones lineales-1.png)
+![](../img/Ecuaciones-lineales-1.png)
 
 Las graficas de cada una de las ecuaciones de un sistema con dos incógnitas:
 
 Ecuaciones lineales-2.png)
 
-![](../img/Ecuaciones lineales-3.png)
+![](../img/Ecuaciones-lineales-3.png)
 
 *(para 3 variables pasa algo muy similar pero con graficaos en 3 dimensiones)*
 ___
 ## 1.2 Matrices
 Una **matriz** de $m*n$ es un arreglo rectangular de números ordenados en **m filas** y **n columnas**.
-![](../img/Ecuaciones lineales-5.png)
+![](../img/Ecuaciones-lineales-5.png)
 
 _Las matrices de 1xn o mx1 se llaman **n-vectores**_.
 
@@ -118,11 +118,11 @@ ___
 si $A$ es una matriz de mxp y $B$ es una matriz de pxn, entonces el producto de $A$ y $B$, se denota por $AB$, es la matriz $C$ de mxn, definida por:
 
 $c_{ij} = a_{i1}b_{1j}+a_{i2}b_{2j}+...+a_{ip}b_{pj}$
-![](../img/Ecuaciones lineales-9.png)
+![](../img/Ecuaciones-lineales-9.png)
 
 ___
 ### Sistemas Lineales
-![](../img/Ecuaciones lineales-10.png)
+![](../img/Ecuaciones-lineales-10.png)
 
 $Ax = b$
 
@@ -214,7 +214,7 @@ ___
 
 ### Conjunto de soluciones
 
-![](../img/Ecuaciones lineales-11.png)
+![](../img/Ecuaciones-lineales-11.png)
  
  Si no hay soluciones el sistema es __incompatible__.
  
